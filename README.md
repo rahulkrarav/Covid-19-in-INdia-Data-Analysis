@@ -29,3 +29,5 @@ Assess the long-term health and economic consequences of the pandemic.
 Develop targeted interventions to address disparities in access to healthcare and vaccination.
 Explore innovative digital health solutions to improve pandemic response.
 By harnessing the power of data, India can better prepare for future health crises and build a more resilient healthcare system.
+
+Blog link -> https://covid19indreporahulkrarav.blogspot.com/2024/10/covid-19-in-india-data-driven-analysis.html
